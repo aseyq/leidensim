@@ -58,4 +58,4 @@ There are no prequisites, but it would be helpful if you have some other program
 
 
 ## What to expect 
-I will upload the slides and notes shortly. So you can skim through them and see if the workshop is any good for you.
+I will upload the slides and notes here shortly. So you can skim through them and see if the workshop is any good for you.
