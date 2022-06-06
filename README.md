@@ -26,14 +26,14 @@ Note:Topics are subject to change
 - 14:00-17:00 Session V - Grid Games, Networks & Advanced Topics
 
 
-## Preperation
-We are going to use Python for our simulations and Jupyter Notebook to have an interactive Python environment. If you are familiar with Python, you can use Python the way you'd like. But I suggest to install Jupyter Notebook at hand because I will give the excercises and notes in Jupyter Notebook Format (ipyb).
+## Preparation
+We are going to use Python for our simulations and Jupyter Notebook to have an interactive Python environment. If you are familiar with Python, you can use Python the way you'd like. But I suggest installing Jupyter Notebook at hand because I will give the exercises and notes in Jupyter Notebook Format (ipyb).
 
-If you've never used Python, the easiest way to get Python run Jupyter Notebooks is by installing `Anaconda`. You should install the individual edition, which is free to use.
+If you've never used Python, the easiest way to get Python and to run Jupyter Notebooks is by installing `Anaconda`. You should install the individual edition, which is free to use.
 
 You can find the installers here: https://www.anaconda.com/products/distribution You should use a Python 3 (for instance 3.9) version. 
 
-Although we will use rarely, also you should probaby get familiar with your operating system's command line interface. In Windows, `Command Line Prompt` or `Powershell` can be used. In macOS and Linux, you have the `Terminal`. 
+Although we will use it rarely, also it would be a plus to get familiarize running your operating system's command-line interface. In Windows, `Command Line Prompt` or `Powershell` can be used. In macOS and Linux, you have the `Terminal`. 
 
 After installing `python` and `anaconda`, you verify that they are installed properly by entering command line: 
 ```
@@ -53,7 +53,7 @@ You should be seeing something like `Python 3.9.1` and `Anaconda 4.4.10` dependi
 
 If you fail to install Anaconda, we will have some time before the second session starts. If you come to the second class 10-15 minutes earlier, I can help you install it. We will not use Python in the first session.
 
-## What are the prequisites and what to practice before the workshop
+## Prerequisites
 There are no prequisites, but it would be helpful if you have some other programming tool experience. You don't really need to practice anything before the workshop, although if you'd like, you can take a look at Python basics. In the second (optional) session, we will cover Python basics anyways. 
 
 
