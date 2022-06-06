@@ -47,8 +47,13 @@ and
 ```
 conda --version
 ```
-
-## What to Practice before the workshop
-You don't need to practice anything before the workshop. Although if you'd like, you can take a look at Python basics. The second session we will have will be about Python basics anyways. 
+You should be seeing something like `Python 3.9.1` and `Anaconda 4.4.10` depending on your version.
 
 If you fail to install Anaconda, we will have some time before the second session starts. If you come to the second class 10-15 minutes earlier, I can help you install it. We will not use Python in the first session.
+
+## What are the prequisites and what to practice before the workshop
+There are no prequisites, but it would be helpful if you have some other programming tool experience. You don't really need to practice anything before the workshop, although if you'd like, you can take a look at Python basics. In the second (optional) session, we will cover Python basics anyways. 
+
+
+## What to expect 
+I will upload the slides and notes shortly. So you can skim through them and see if the workshop is any good for you.
