@@ -12,16 +12,16 @@ Ali Seyhun Saral (University of Bologna)
 Topics are subject to change
 ### 13 June 2022
 - 10:00-12:30 Session I - Introduction to ABM
-- 14:00-17:00 Session II - Python Introduction
+- 14:00-17:00 Session II - Python Crash Course
 
 ### 14 June 2022
 - 14:00-17:00 Session III - Interacting agents and Axelrod Tournaments
 
 ### 15 June 2022
-- 14:00-17:00 Session IV - Evolution  & Agent-Based Simulations
+- 14:00-17:00 Session IV - Evolution & Agent-Based Simulations
    
 ### 16 June 2022
-- 14:00-17:00 Session V - Grid Games, Network Modelling, Advanced Topics
+- 14:00-17:00 Session V - Grid Games, Networks & Advanced Topics
 
 
 ## Preperation
