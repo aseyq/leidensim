@@ -9,7 +9,9 @@ Ali Seyhun Saral (University of Bologna)
 
 
 ## Schedule
-Topics are subject to change
+
+Note:Topics are subject to change
+
 ### 13 June 2022
 - 10:00-12:30 Session I - Introduction to ABM
 - 14:00-17:00 Session II - Python Crash Course
