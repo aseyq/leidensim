@@ -12,17 +12,17 @@ Ali Seyhun Saral (University of Bologna)
 
 Note:Topics are subject to change
 
-### 13 June 2022
+### 13 June 2022, Monday
 - 10:30-12:00 Session I - Introduction to ABM
 - 13:30-17:00 Session II - Python Crash Course
 
-### 14 June 2022
+### 14 June 2022, Tuesday
 - 13:30-17:00 Session III - Interacting agents and Axelrod Tournaments
 
-### 15 June 2022
+### 15 June 2022, Wednesday
 - 13:30-17:00 Session IV - Evolution & Agent-Based Simulations
    
-### 16 June 2022
+### 16 June 2022, Thursday
 - 13:30-17:00 Session V - Grid Games, Networks & Advanced Topics
 
 
@@ -57,6 +57,4 @@ If you fail to install Anaconda, we will have some time before the second sessio
 ## Prerequisites
 There are no prequisites, but it would be helpful if you have some other programming tool experience. You don't really need to practice anything before the workshop, although if you'd like, you can take a look at Python basics. In the second (optional) session, we will cover Python basics anyways. 
 
-
-## What to expect 
-I will upload the slides and notes here shortly. So you can skim through them and see if the workshop is any good for you.
+I will upload the slides and notes here shortly.  
