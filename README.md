@@ -57,4 +57,4 @@ If you fail to install Anaconda, we will have some time before the second sessio
 ## Prerequisites
 There are no prequisites, but it would be helpful if you have some other programming tool experience. You don't really need to practice anything before the workshop, although if you'd like, you can take a look at Python basics. In the second (optional) session, we will cover Python basics anyways. 
 
-I will upload the slides and notes here shortly.  
+I will upload the slides and notes here shortly before each class.  
