@@ -7,9 +7,10 @@ Repository for the workshop materials
 Ali Seyhun Saral (University of Bologna)  
 <ali.saral@unibo.it> 
 
+## Annoucements
+June 13 - Corrected some excersises and added some solutions to the excercises. 
 
 ## Schedule
-
 Note:Topics are subject to change
 
 ### 13 June 2022, Monday
