@@ -981,3 +981,23 @@ import random as rnd
 rnd.choice(['ali', "bob", "chiara"])
 
 ```
+
+## Exercise: Estimating the pi with with Monte Carlo simulation
+Open `monte_carlo.ipynb`
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+* We have a square with with height and width of 1.
+* We have a circle with radius of 0.1
+* We want to estimate the value of Pi.
+
+* We are gonna shoot random arrows inside the square. We will only know if they hit the circle or not.
+:::
+
+::: {.column width="50%"}
+![](images/montecarlo.png){width="400px"}
+:::
+
+::::
