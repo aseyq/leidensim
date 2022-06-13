@@ -14,7 +14,7 @@ Note:Topics are subject to change
 
 ### 13 June 2022, Monday
 - 11:00-12:30 Session I - Introduction to ABM [Slides](https://www.saral.it/leidensim/slides/intro.html#/title-slide)
-- 13:30-17:00 Session II - Python Crash Course
+- 13:30-17:00 Session II - Python Crash Course [Slides](https://www.saral.it/leidensim/slides/python_intro.html)
 
 ### 14 June 2022, Tuesday
 - 13:30-17:00 Session III - Interacting agents and Axelrod Tournaments
