@@ -7,10 +7,10 @@ Repository for the workshop materials
 Ali Seyhun Saral (University of Bologna)  
 <ali.saral@unibo.it> 
 
+## Annoucements
+13 June - Corrected some excersises and added the solutions to the excersises.
 
 ## Schedule
-
-Note:Topics are subject to change
 
 ### 13 June 2022, Monday
 - 11:00-12:30 Session I - Introduction to ABM [Slides](https://www.saral.it/leidensim/slides/intro.html#/title-slide)
