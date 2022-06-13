@@ -8,7 +8,7 @@ Ali Seyhun Saral (University of Bologna)
 <ali.saral@unibo.it> 
 
 ## Annoucements
-June 13 - Corrected some excersises and added the solutions to the excersises.
+13 June - Corrected some excersises and added the solutions to the excersises.
 
 ## Schedule
 Note:Topics are subject to change
