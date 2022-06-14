@@ -338,3 +338,6 @@ angelo = OperaSinger()
 angelo.awards
 ```
 
+## Practice
+<h3>Ex8_classes2.ipynb </h3>
+
