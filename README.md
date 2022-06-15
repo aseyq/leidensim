@@ -8,6 +8,7 @@ Ali Seyhun Saral (University of Bologna)
 <ali.saral@unibo.it> 
 
 ## Annoucements
+14 June - Added solutions to the exercises
 13 June - Corrected some excersises and added the solutions to the excersises.
 
 ## Schedule
@@ -20,8 +21,8 @@ Ali Seyhun Saral (University of Bologna)
 
 ### 14 June 2022, Tuesday
 - 13:30-17:00 Session III 
-  - Python Classes 
-  - Building our agents 
+  - Python Classes [Slides](https://www.saral.it/leidensim/slides/classes.html)
+  - Prisoner's Dilemma Matches [Slides](https://www.saral.it/leidensim/slides/agents.html)
   - Axelrod Tournaments
 
 ### 15 June 2022, Wednesday
