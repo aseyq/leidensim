@@ -23,11 +23,12 @@ Ali Seyhun Saral (University of Bologna)
 - 13:30-17:00 Session III 
   - Python Classes [Slides](https://www.saral.it/leidensim/slides/classes.html)
   - Prisoner's Dilemma Matches [Slides](https://www.saral.it/leidensim/slides/agents.html)
-  - Axelrod Tournaments
+  
 
 ### 15 June 2022, Wednesday
-- 13:30-17:00 Session IV - Evolution & Agent-Based Simulations
-   
+- 13:30-17:00 Session IV - Evolution & Agent-Based Simulations [Slides](https://www.saral.it/leidensim/slides/agents2.html)
+  - Axelrod Tournaments
+  - Evolution of Prisoners Dilemma  
 ### 16 June 2022, Thursday
 - 13:30-17:00 Session V - Grid Games, Networks & Advanced Topics
 
