@@ -30,7 +30,7 @@ Ali Seyhun Saral (University of Bologna)
   - Axelrod Tournaments
   - Evolution of Prisoners Dilemma  
 ### 16 June 2022, Thursday
-- 13:30-17:00 Session V - Grid Games, Networks & Advanced Topics
+- 13:30-17:00 Session V - Grid Simulations & Advanced Topics
 
 
 ## Preparation
