@@ -81,3 +81,6 @@ I will upload the slides and notes here shortly before each class.
 - Mesa Documentation: https://mesa.readthedocs.io/en/latest/
 - CoMSES Net Model Library: https://www.comses.net/codebases/
 - NetLogo Model Library: https://ccl.northwestern.edu/netlogo/models/
+
+### Acknowledgements
+- I'd like to express my gratitude to Joël Foramitti for sharing the AgentPy workshop materials with me.
