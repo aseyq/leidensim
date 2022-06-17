@@ -22,10 +22,11 @@ title-slide-attributes:
 ---
 
 ## Agent-Based Model Frameworks
+
 They are aimed to help you:
-    - Create a world (grid, network, etc.)
-    - Shorten the development time
-    - Help you run faster simulations
+  - Create a world (grid, network, etc.)
+  - Shorten the development time
+  - Help you run faster simulations
 
 ## Frameworks
 
