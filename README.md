@@ -68,7 +68,7 @@ I will upload the slides and notes here shortly before each class.
 
 ## Resources
 ### Books
-- Agent-Based and Individual-Based Modeling - Steven F. Railsback Volker Grimm
+- Agent-Based and Individual-Based Modeling (NetLogo) - Steven F. Railsback Volker Grimm
 - Introduction to Agent-Based Modelling (NetLogo)- Marco Janssen (https://intro2abm.com/)
 - Simulation Models of Cultural Evolution in R - Alex Mesoudi https://bookdown.org/amesoudi/ABMtutorial_bookdown/
 - Individual-based models of cultural evolution. A step-by-step guide using R. - Alberto Acerbi, Alex Mesoudi, and Marco Smolla. (https://doi.org/10.31219/osf.io/32v6a)
