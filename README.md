@@ -76,7 +76,7 @@ I will upload the slides and notes here shortly before each class.
 - Spatial Simulation: Exploring Pattern and Process - David O'Sullivan and George L. W. Perry
 - Fundementals of Multiagent Systems - Jose Vidal (https://jmvidal.cse.sc.edu/papers/mas.pdf)
 
-## E-Resources
+### E-Resources
 - AgentPy Documentation: https://agentpy.readthedocs.io/en/latest/
 - Mesa Documentation: https://mesa.readthedocs.io/en/latest/
 - CoMSES Net Model Library: https://www.comses.net/codebases/
