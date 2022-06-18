@@ -7,10 +7,6 @@ Repository for the workshop materials
 Ali Seyhun Saral (University of Bologna)  
 <ali.saral@unibo.it> 
 
-## Annoucements
-14 June - Added solutions to the exercises
-13 June - Corrected some excersises and added the solutions to the excersises.
-
 ## Schedule
 
 ### 13 June 2022, Monday
@@ -71,7 +67,7 @@ I will upload the slides and notes here shortly before each class.
 - Agent-Based and Individual-Based Modeling (NetLogo) - Steven F. Railsback Volker Grimm
 - Introduction to Agent-Based Modelling (NetLogo)- Marco Janssen (https://intro2abm.com/)
 - Simulation Models of Cultural Evolution in R - Alex Mesoudi https://bookdown.org/amesoudi/ABMtutorial_bookdown/
-- Individual-based models of cultural evolution. A step-by-step guide using R. - Alberto Acerbi, Alex Mesoudi, and Marco Smolla. (https://doi.org/10.31219/osf.io/32v6a)
+- Individual-based models of cultural evolution. A step-by-step guide using R. - Alberto Acerbi, Alex Mesoudi, and Marco Smolla. (https://acerbialberto.com/IBM-cultevo/)
 - Agent-Based Modeling for Archaeology: Simulating the Complexity of Societies (Netlogo) - Iza Romanowska, Colin D. Wren, Stefani A. Crabtree  (https://www.sfipress.org/books/agent-based-modeling-archaeology)
 - Spatial Simulation: Exploring Pattern and Process - David O'Sullivan and George L. W. Perry
 - Fundementals of Multiagent Systems - Jose Vidal (https://jmvidal.cse.sc.edu/papers/mas.pdf)
