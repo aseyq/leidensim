@@ -66,7 +66,6 @@ I will upload the slides and notes here shortly before each class.
 ### Books
 - Agent-Based and Individual-Based Modeling (NetLogo) - Steven F. Railsback Volker Grimm
 - Introduction to Agent-Based Modelling (NetLogo)- Marco Janssen (https://intro2abm.com/)
-- Simulation Models of Cultural Evolution in R - Alex Mesoudi https://bookdown.org/amesoudi/ABMtutorial_bookdown/
 - Individual-based models of cultural evolution. A step-by-step guide using R. - Alberto Acerbi, Alex Mesoudi, and Marco Smolla. (https://acerbialberto.com/IBM-cultevo/)
 - Agent-Based Modeling for Archaeology: Simulating the Complexity of Societies (Netlogo) - Iza Romanowska, Colin D. Wren, Stefani A. Crabtree  (https://www.sfipress.org/books/agent-based-modeling-archaeology)
 - Spatial Simulation: Exploring Pattern and Process - David O'Sullivan and George L. W. Perry
