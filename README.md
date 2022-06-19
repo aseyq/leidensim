@@ -77,5 +77,21 @@ I will upload the slides and notes here shortly before each class.
 - CoMSES Net Model Library: https://www.comses.net/codebases/
 - NetLogo Model Library: https://ccl.northwestern.edu/netlogo/models/
 
+### Papers
+- Grimm, V., Berger, U., Bastiansen, F., Eliassen, S., Ginot, V., Giske, J., ... & DeAngelis, D. L. (2006). A standard protocol for describing individual-based and agent-based models. Ecological modelling, 198(1-2), 115-126.
+
+- Hamis, S., Stratiev, S., & Powathil, G. G. (2021). Uncertainty and sensitivity analyses methods for agent-based mathematical models: An introductory review. The Physics of Cancer: Research Advances, 1-37.
+
+- Janssen, M. A. (2005). Agent-based modelling. Modelling in ecological economics, 155(1), 172-181.
+
+- Axelrod, R., & Tesfatsion, L. (2006). Appendix AA guide for newcomers to agent-based modeling in the social sciences. Handbook of computational economics, 2, 1647-1659.
+
+- Bonabeau, E. (2002). Agent-based modeling: Methods and techniques for simulating human systems. Proceedings of the national academy of sciences, 99(suppl_3), 7280-7287.
+
+- DeAngelis, D. L., & Grimm, V. (2014). Individual-based models in ecology after four decades. F1000prime reports, 6.
+
+- Jackson, J. C., Rand, D., Lewis, K., Norton, M. I., & Gray, K. (2017). Agent-based modeling: A guide for social psychologists. Social Psychological and Personality Science, 8(4), 387-395.
+
+
 ### Acknowledgements
-- I'd like to express my gratitude to Joël Foramitti for sharing the AgentPy workshop materials with me.
+- Thanks to Joël Foramitti for sharing the AgentPy workshop materials with me.
