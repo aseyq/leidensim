@@ -63,19 +63,20 @@ There are no prequisites, but it would be helpful if you have some other program
 I will upload the slides and notes here shortly before each class.  
 
 ## Resources
+
 ### Books
 - Agent-Based and Individual-Based Modeling (NetLogo) - Steven F. Railsback Volker Grimm
+
 - Introduction to Agent-Based Modelling (NetLogo)- Marco Janssen (https://intro2abm.com/)
+ 
 - Individual-based models of cultural evolution. A step-by-step guide using R. - Alberto Acerbi, Alex Mesoudi, and Marco Smolla. (https://acerbialberto.com/IBM-cultevo/)
+
 - Agent-Based Modeling for Archaeology: Simulating the Complexity of Societies (Netlogo) - Iza Romanowska, Colin D. Wren, Stefani A. Crabtree  (https://www.sfipress.org/books/agent-based-modeling-archaeology)
+ 
 - Spatial Simulation: Exploring Pattern and Process - David O'Sullivan and George L. W. Perry
+ 
 - Fundementals of Multiagent Systems - Jose Vidal (https://jmvidal.cse.sc.edu/papers/mas.pdf)
 
-### E-Resources
-- AgentPy Documentation: https://agentpy.readthedocs.io/en/latest/
-- Mesa Documentation: https://mesa.readthedocs.io/en/latest/
-- CoMSES Net Model Library: https://www.comses.net/codebases/
-- NetLogo Model Library: https://ccl.northwestern.edu/netlogo/models/
 
 ### Papers
 - Grimm, V., Berger, U., Bastiansen, F., Eliassen, S., Ginot, V., Giske, J., ... & DeAngelis, D. L. (2006). A standard protocol for describing individual-based and agent-based models. Ecological modelling, 198(1-2), 115-126.
@@ -92,6 +93,14 @@ I will upload the slides and notes here shortly before each class.
 
 - Jackson, J. C., Rand, D., Lewis, K., Norton, M. I., & Gray, K. (2017). Agent-based modeling: A guide for social psychologists. Social Psychological and Personality Science, 8(4), 387-395.
 
+### E-Resources
+- AgentPy Documentation: https://agentpy.readthedocs.io/en/latest/
+- 
+- Mesa Documentation: https://mesa.readthedocs.io/en/latest/
+- 
+- CoMSES Net Model Library: https://www.comses.net/codebases/
+- 
+- NetLogo Model Library: https://ccl.northwestern.edu/netlogo/models/
 
 ### Acknowledgements
 - Thanks to Joël Foramitti for sharing the AgentPy workshop materials with me.
